@@ -33,7 +33,7 @@
     <td>DAE_selu30.ipynb</td>
     <td>tensorflow, keras, numpy, matplotlib</td>
     <td>Denoising auto encoder</td>
-    <td><img src="DAE_bce_selu Epoch 50.JPG"></td>
+    <td><img src="https://github.com/Sujata018/Machine-Learning/blob/main/image/DAE_bce_selu%20Epoch%2050.JPG"></td>
   </tr>
 
 </table>
