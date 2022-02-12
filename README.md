@@ -6,6 +6,7 @@
     <td>Source</td>
     <td>Packages used</td>
     <td>Description</td>
+    <td>Results</td>
   </tr>
   
   <tr>
@@ -27,6 +28,12 @@
     <td>kInKMeans.ipynb</td>
     <td>sklearn</td>
     <td>Determine optimum K for K-means</td>
+  </tr>
+  <tr>
+    <td>DAE_selu30.ipynb</td>
+    <td>tensorflow, keras, numpy, matplotlib</td>
+    <td>Denoising auto encoder</td>
+    <td><img src="DAE_bce_selu Epoch 50.JPG"></td>
   </tr>
 
 </table>
